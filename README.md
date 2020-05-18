@@ -1,4 +1,5 @@
 A simple Script to get backup following partitions
+```
 		*efuse
 		*hw
 		*oem
@@ -19,3 +20,4 @@ How to use this Script:
 Credits:
 	lenovoroot.com
 	mhdzumair
+``
